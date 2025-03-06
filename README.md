@@ -2,6 +2,7 @@ _May 2024_
 
 Scientific calculator upgraded with Advance features
 
+
 Includes:
 
 three basic trigonometric functions - sin, cos, tan
